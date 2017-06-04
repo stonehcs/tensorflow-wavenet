@@ -1,6 +1,8 @@
 from __future__ import division
 from __future__ import print_function
 
+import googday
+
 import argparse
 from datetime import datetime
 import json
